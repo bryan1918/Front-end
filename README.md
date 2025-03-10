@@ -1,2 +1,2 @@
 # Front-end
-Clase de front end xd
+Clase de frontend clase 1
